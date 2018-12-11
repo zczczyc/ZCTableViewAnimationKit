@@ -1,0 +1,16 @@
+PODS:
+  - ZCTableViewAnimationKit (0.1.0)
+
+DEPENDENCIES:
+  - ZCTableViewAnimationKit (from `../`)
+
+EXTERNAL SOURCES:
+  ZCTableViewAnimationKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZCTableViewAnimationKit: 60c952a292bfcb189b964b16e92466308e6b0d6b
+
+PODFILE CHECKSUM: 5c589b308325eb3db85c4d6331a23eeaeae93029
+
+COCOAPODS: 1.5.0

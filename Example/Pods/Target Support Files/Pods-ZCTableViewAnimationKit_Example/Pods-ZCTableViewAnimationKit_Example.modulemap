@@ -1,0 +1,6 @@
+framework module Pods_ZCTableViewAnimationKit_Example {
+  umbrella header "Pods-ZCTableViewAnimationKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
